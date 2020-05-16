@@ -1,0 +1,39 @@
+body{
+  background-color: #222831;
+  padding: 0 15rem;
+  text-align: center;
+}
+h1{
+  font-size: 5rem;
+  color: rgb(11, 205, 227);
+  margin:0 0 4rem 0;
+  padding:0 5rem;
+}
+.box{
+  display: inline-block;
+  height: 120px;
+  width: 120px;
+  margin:1rem;
+  border-radius: 10%;
+}
+.red{
+  background-color: red;
+
+}
+.yellow{
+  background-color: yellow;
+}
+.green{
+  background-color: green;
+}
+.blue{
+  background-color: blue;
+}
+.shadow{
+  box-shadow: 0px 3px 4px 0px  #fff;
+  opacity:0.5;
+}
+.score{
+  font-size:3rem;
+  margin: 1rem
+}
